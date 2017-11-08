@@ -1,6 +1,5 @@
 {
   "name": "redux-simple-starter",
-  "homepage": "https://leonelav.github.io/youtubeReact",
   "version": "1.0.0",
   "description": "Simple starter package for Redux with React and Babel support",
   "main": "index.js",
